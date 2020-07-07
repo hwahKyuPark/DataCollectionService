@@ -1,0 +1,7 @@
+D:\SID_PROJECT\DataCollectionService\ImportService\ImportDataManager\PaserTest\PaserTest\bin\Debug\PaserTest.exe.config
+D:\SID_PROJECT\DataCollectionService\ImportService\ImportDataManager\PaserTest\PaserTest\bin\Debug\PaserTest.exe
+D:\SID_PROJECT\DataCollectionService\ImportService\ImportDataManager\PaserTest\PaserTest\bin\Debug\PaserTest.pdb
+D:\SID_PROJECT\DataCollectionService\ImportService\ImportDataManager\PaserTest\PaserTest\obj\Debug\PaserTest.csprojResolveAssemblyReference.cache
+D:\SID_PROJECT\DataCollectionService\ImportService\ImportDataManager\PaserTest\PaserTest\obj\Debug\PaserTest.exe
+D:\SID_PROJECT\DataCollectionService\ImportService\ImportDataManager\PaserTest\PaserTest\obj\Debug\PaserTest.pdb
+D:\SID_PROJECT\DataCollectionService\ImportService\ImportDataManager\PaserTest\PaserTest\bin\Debug\Newtonsoft.Json.dll
